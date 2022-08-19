@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+
+:root {
+    --primary-color: rgb(17, 86, 102);
+    --primary-color-darker: rgb(9, 48, 56);
+}
