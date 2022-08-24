@@ -8,7 +8,6 @@ export default function Home() {
     <div className={styles.body}>
       <section className={styles.container}>
         <h1>RandoNum</h1>
-        <p>Seu gerador de números aleatórios</p><hr></hr>
         <Form/>
       </section>
     </div>
